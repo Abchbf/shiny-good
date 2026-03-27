@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>资源聚合页面</title>
+    <style>
+        body {
+            font-family: "Microsoft YaHei", sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+            margin: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #e74c3c;
+        }
+        .emoji-title {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        .link-btn {
+            display: inline-block;
+            margin: 30px 0;
+            padding: 15px 30px;
+            background-color: #27ae60;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .link-btn:hover {
+            background-color: #219653;
+        }
+        .instructions {
+            text-align: left;
+            background-color: #fff9db;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+            line-height: 1.8;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+        .note {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- 标题部分 -->
+        <h1>🍉 资源片库：每日更新</h1>
+        
+        <!-- 链接按钮 -->
+        <a href="  https://pan.xunlei.com/s/VOoc-Ep33b_YDHUlBtvoAbDuA1?pwd=52bf" class="link-btn" target="_blank">
+            https://pan.xunlei.com/s/VOoc-Ep33b_YDHUlBtvoAbDuA1?pwd=52bf 点我查看最新资源
+        </a>
+
+        <!-- 点击上方👆蓝色网址链接“提取文件”获取片源 (如若被和谐失效，或文件为空，请耐心等待明日更新) -->
+        <div class="instructions">
+            <p><strong>播放说明：
+            <p>1. 为了播放更流畅，新视频都放在上方👆网址链接里。</p>
+            <p>2. 所有片源需要用对应的APP 获取，如您手机没有，会弹出安装包，安装后即可观看。</p>
+            <p>3. 为了让片源高清不失真，视频放进了压缩包，进去下载到手机就能看。</p>
+        </div>
+    </div>
+
+</body>
+</html>
